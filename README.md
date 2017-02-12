@@ -19,8 +19,10 @@ import org.jtwig.translate.spring.SpringTranslateExtensionConfiguration;
 import org.jtwig.web.servlet.JtwigRenderer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.LocaleResolver;
 
+@Configuration
 public class JtwigMvcConfiguration implements JtwigViewResolverConfigurer {
     @Autowired
     private MessageSource messageSource;
