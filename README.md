@@ -3,7 +3,7 @@
 **Build Stats**
 
 [![Build Status](https://travis-ci.org/jtwig/jtwig-spring-translate-extension.svg?branch=master)](https://travis-ci.org/jtwig/jtwig-spring-translate-extension)
-[![Coverage Status](https://coveralls.io/repos/jtwig/jtwig-spring-translate-extension/badge.svg?branch=master&service=github)](https://coveralls.io/github/jtwig/jtwig-spring-translate-extension?branch=master)
+[![codecov](https://codecov.io/gh/jtwig/jtwig-spring-translate-extension/branch/master/graph/badge.svg)](https://codecov.io/gh/jtwig/jtwig-spring-translate-extension)
 [![Download](https://api.bintray.com/packages/jtwig/maven/jtwig-spring-translate-extension/images/download.svg) ](https://bintray.com/jtwig/maven/jtwig-spring-translate-extension/_latestVersion)
 
 **How to use?**
