@@ -41,8 +41,8 @@ buildscript {
 
 
 dependencies {
-    compile 'org.jtwig:jtwig-spring:5.+'
-    compile 'org.jtwig:jtwig-translate-extension:5.+'
+    compile "org.jtwig:jtwig-spring:$jtwigVersion"
+    compile "org.jtwig:jtwig-translate-extension:$jtwigVersion"
 
     compile 'com.google.guava:guava:18.0'
     compile 'org.apache.commons:commons-lang3:3.1'
